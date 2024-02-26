@@ -1,3 +1,5 @@
+https://github.com/rajayogan/flutter-googlemaps-nearbyplaces
+
 Obtenez une clé API Google Maps en suivant les étapes décrites dans ce lien: Obtenir une clé API Google Maps
 
 <uses-permission android:name="android.permission.INTERNET"/>
