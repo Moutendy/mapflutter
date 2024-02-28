@@ -1,3 +1,6 @@
+teste bon tutorial pour URL
+https://pub.dev/packages/map_launcher
+
 class IntentUtils {
   IntentUtils._();
   static Future<void> launchGoogleMaps() async {
